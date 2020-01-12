@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/shopping-react-redux/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/shopping-react-redux/static/js/main.89c9374f.chunk.js",
+    "main.js.map": "/shopping-react-redux/static/js/main.89c9374f.chunk.js.map",
+    "runtime-main.js": "/shopping-react-redux/static/js/runtime-main.ba17a367.js",
+    "runtime-main.js.map": "/shopping-react-redux/static/js/runtime-main.ba17a367.js.map",
+    "static/js/2.422505e0.chunk.js": "/shopping-react-redux/static/js/2.422505e0.chunk.js",
+    "static/js/2.422505e0.chunk.js.map": "/shopping-react-redux/static/js/2.422505e0.chunk.js.map",
+    "index.html": "/shopping-react-redux/index.html",
+    "precache-manifest.fa4e9e7874345c75fdf7f1864a70f447.js": "/shopping-react-redux/precache-manifest.fa4e9e7874345c75fdf7f1864a70f447.js",
+    "service-worker.js": "/shopping-react-redux/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/shopping-react-redux/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.422505e0.chunk.js.LICENSE": "/shopping-react-redux/static/js/2.422505e0.chunk.js.LICENSE",
+    "static/media/item1.jpg": "/shopping-react-redux/static/media/item1.50637965.jpg",
+    "static/media/item2.jpg": "/shopping-react-redux/static/media/item2.76799c73.jpg",
+    "static/media/item3.jpg": "/shopping-react-redux/static/media/item3.c3a017c1.jpg",
+    "static/media/item4.jpg": "/shopping-react-redux/static/media/item4.ec07868b.jpg",
+    "static/media/item5.jpg": "/shopping-react-redux/static/media/item5.036fecde.jpg",
+    "static/media/item6.jpg": "/shopping-react-redux/static/media/item6.2a1ce7f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba17a367.js",
+    "static/js/2.422505e0.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.89c9374f.chunk.js"
+  ]
+}
